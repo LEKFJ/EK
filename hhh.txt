@@ -1,1 +1,1 @@
-git@github.com:LEKFJ/EK.git
+git@github.com:LEKFJ/EK.gitkkkk
